@@ -10,6 +10,7 @@ python evaluate/eval.py --expname shapenet --parallel --exps_folder_name trained
 
 ## Training 
 cd ./code 
+
 python training/exp_runner.py 
 
 ## Acknowledgemetn 
