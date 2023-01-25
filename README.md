@@ -13,5 +13,5 @@ cd ./code
 
 python training/exp_runner.py 
 
-## Acknowledgemetn 
+## Acknowledgement 
 This code is based on SALD (https://github.com/matanatz/SALD), thanks for this wonderful work. 
